@@ -1,2 +1,2 @@
 # animate
-A project I made at HackIllinois 2017 that makes text to animation. 
+A project I started at HackIllinois 2017 that makes text to animation. 

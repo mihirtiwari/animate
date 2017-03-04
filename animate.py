@@ -13,4 +13,5 @@ def animate(object, phrase):
         if p[0] == obj.get_name() and p[1] == 'NN':
             gp.display(obj)
         elif 'VB' in p[1]:
-            gp.show_action(obj, str(p[0])
+            gp.show_action(obj, str(p[0]))
+        
