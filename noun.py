@@ -18,5 +18,8 @@ class Noun:
     def get_actions(self):
         return self.actions;
 
+    def __getitem__(self):
+        return self.name
+
 if __name__ == "__main__":
     print("Class Object")
